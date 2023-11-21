@@ -1,6 +1,8 @@
 # GAI_BBC_example
 Demonstration of the adaptation of the GAI to Big Butterfly Count data to adjust for phenology.
 
+Please see the associated paper for details: Dennis, E.B., Diana, A., Matechou, E. and Morgan, B.J.T (2023) Efficient statistical inference methods for assessing changes in species' populations using citizen science data. Under submission.
+
 The following data files are provided:
 
 BBC_sampling_period_dates.csv - lists the start and end dates for BBC sampling each year
