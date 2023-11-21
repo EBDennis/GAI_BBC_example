@@ -23,5 +23,6 @@ We are very grateful to all of the people who have contributed to the Big Butter
 
 ## References
 
-Original GAI reference: Dennis, E.B., Morgan, B.J.T., Freeman, S.N., Brereton, T.M. & Roy, D.B. (2016). A generalized abundance index for seasonal invertebrates. Biometrics, 72, 1305–1314. https://doi.org/10.1111/biom.12506
+Dennis, E.B., Morgan, B.J.T., Freeman, S.N., Brereton, T.M. & Roy, D.B. (2016). A generalized abundance index for seasonal invertebrates. Biometrics, 72, 1305–1314. https://doi.org/10.1111/biom.12506
 
+Dennis, E.B., Morgan, B.J.T., Brereton, T.M., Roy, D.R. & Fox, R. (2017). Using citizen science butterfly counts to predict species population trends. Conservation Biology, 31, 1350-1361.  https://doi.org/10.1111/cobi.12956
