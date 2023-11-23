@@ -1,5 +1,5 @@
 # GAI_BBC_example
-This repository contains data and code to demonstrate the adaptation of the generalised abundance index (GAI) approach for application to a snapshot, mass-participation citizen science data set (Big Butterfly Count, BBC https://bigbutterflycount.org/) to adjust for phenology. The approach is applied to data for two butterfly species (Marbled White and Comma).
+This repository contains data and code to demonstrate the adaptation of the generalised abundance index (GAI) approach for application to a snapshot, mass-participation citizen science data set ([Big Butterfly Count](https://bigbutterflycount.org/), BBC) to adjust for phenology. The approach is applied to data for two butterfly species (Marbled White and Comma).
 
 Please see the associated paper for details: Dennis, E.B., Diana, A., Matechou, E. and Morgan, B.J.T (2023) Efficient statistical inference methods for assessing changes in species' populations using citizen science data. Under submission.
 
@@ -19,7 +19,7 @@ x_flightperiods.csv - daily flight period estimates for a given species (x) for 
 
 x_UKBMS_GAI_abundance_index.csv - abundance index for species (x) estimated from UKBMS data for 2011-2022, where TRMOBS_UKBMS is the abundance index on the log10 scale with a mean value of 2.
 
-We are very grateful to all of the people who have contributed to the Big Butterfly Count whic his organised by Butterfly Conservation https://butterfly-conservation.org/. The UKBMS is organised and funded by Butterfly Conservation, the British Trust for Ornithology (BTO), and the Joint Nature Conservation Committee (JNCC). The UKBMS is indebted to all volunteers who contribute data to the scheme.
+We are very grateful to all of the people who have contributed to the Big Butterfly Count whic his organised by [Butterfly Conservation](https://butterfly-conservation.org/). The [UKBMS](https://ukbms.org/) is organised and funded by Butterfly Conservation, the British Trust for Ornithology (BTO), and the Joint Nature Conservation Committee (JNCC). The UKBMS is indebted to all volunteers who contribute data to the scheme.
 
 ## References
 
