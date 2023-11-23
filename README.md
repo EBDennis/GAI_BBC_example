@@ -1,5 +1,5 @@
 # GAI_BBC_example
-This repository contains data and code to demonstration the adaptation of the generalised abundance index (GAI) approach for application to a snapshot, mass-participation citizen science data set (Big Butterfly Count, BBC) to adjust for phenology. The approach is applied to data for two butterfly species (Marbled White and Comma).
+This repository contains data and code to demonstrate the adaptation of the generalised abundance index (GAI) approach for application to a snapshot, mass-participation citizen science data set (Big Butterfly Count, BBC) to adjust for phenology. The approach is applied to data for two butterfly species (Marbled White and Comma).
 
 Please see the associated paper for details: Dennis, E.B., Diana, A., Matechou, E. and Morgan, B.J.T (2023) Efficient statistical inference methods for assessing changes in species' populations using citizen science data. Under submission.
 
